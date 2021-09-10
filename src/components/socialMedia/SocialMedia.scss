@@ -63,6 +63,9 @@
 .instagram i {
   background-color: $instagram;
 }
+.hackerrank i {
+  background-color: $hackerrank;
+}
 
 /* Hover Transition */
 .twitter i:hover,
@@ -73,7 +76,8 @@
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
-.medium i:hover {
+.medium i:hover 
+.hackerrank i:hover{
   background-color: $textColor;
 }
 

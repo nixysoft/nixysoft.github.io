@@ -115,6 +115,42 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.mail ? (
+        <a
+          href={`mailto:${socialMediaLinks.mail}`}
+          className="icon-button facebook"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fa fa-envelope"></i>
+          <span></span>
+        </a>
+      ) : null}
+
+      {socialMediaLinks.leetcode ? (
+        <a
+          href={socialMediaLinks.leetcode}
+          className="icon-button github"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fa fa-laptop-code"></i>
+          <span></span>
+        </a>
+      ) : null}
+
+      {socialMediaLinks.hackerrank ? (
+        <a
+          href={socialMediaLinks.hackerrank}
+          className="icon-button hackerrank"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-hackerrank"></i>
+          <span></span>
+        </a>
+      ) : null}
     </div>
   );
 }
