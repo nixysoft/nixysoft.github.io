@@ -11,20 +11,20 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Phillip Jones",
-  title: "Hello, I am Phillip Jones",
+  username: "Nicolas Jin",
+  title: "Hello, I am Nicolas Jin",
   subTitle: emoji(
     "An authoritative Software Developer willing to direct large-scale teams or work hands-on to complete extremely difficult projects. Brings both cutting-edge programming expertise and exceptional interpersonal skills to leadership roles."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1GUX5uoq90stKLh1o_ZUrQSiU_p6UhMhF/view?usp=sharing",
+    "https://drive.google.com/file/d/1eFg4XEaw_lcNjnP5qJZQUjtuV9MxxR2h/view?usp=drive_link",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/algoSupport",
+  github: "https://github.com/topdeveloper55",
   // linkedin: "https://www.linkedin.com/in/saadpasta/",
   // gmail: "saadpasta70@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
@@ -32,9 +32,9 @@ const socialMediaLinks = {
   // medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/16659214/code-plus",
   // Instagram and Twitter are also supported in the links!
-  mail: "algoplusnine@outlook.com",
-  leetcode: "https://leetcode.com/algoPlus/",
-  hackerrank: "https://www.hackerrank.com/algoplusnine",
+  mail: "nicolas.soft94@gmail.com",
+  // leetcode: "https://leetcode.com/algoPlus/",
+  // hackerrank: "https://www.hackerrank.com/algoplusnine",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -346,7 +346,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   // number: "+92-3243454077",
-  email_address: "algoplusnine@outlook.com"
+  email_address: "nicolas.soft94@gmail.com"
 };
 
 // Twitter Section
